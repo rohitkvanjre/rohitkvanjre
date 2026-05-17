@@ -51,8 +51,6 @@ I am a highly motivated Computer Science Engineering student with a strong acade
 📌 **View my Resume:**  
 👉 [Click here to view my Resume](./Resume.pdf)
 
-*(Upload your resume file as `Resume.pdf` in this repository)*
-
 ---
 
 ## 🚀 Projects
