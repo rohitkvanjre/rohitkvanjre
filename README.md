@@ -49,7 +49,7 @@ I am a highly motivated Computer Science Engineering student with a strong acade
 ## 📄 Resume
 
 📌 **View my Resume:**  
-👉 [Click here to view my Resume](./Resume.pdf)
+👉 [Click here to view my Resume](./Rohit_K_Resume.pdf)
 
 ---
 
