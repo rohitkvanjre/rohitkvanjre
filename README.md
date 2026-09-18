@@ -63,6 +63,8 @@ I am a highly motivated Computer Science Engineering student with a strong acade
 - Used OpenCV and deep learning-based face detection models to improve accuracy.
 - Reduced manual effort and errors; project demonstrates strong potential though not fully deployed.
 
+🔗 **Repository Link:** 
+https://github.com/rohitkvanjre/IAAA.git
 ---
 
 ### 🔹 Marketing Campaign Dashboard Prototype (Figma)
@@ -87,6 +89,8 @@ https://www.figma.com/make/bOO7fWbgt3TokqIrVPejaU/Lead-Management-System-CRM
 - Reduced manual installation time from 5+ hours (180 systems) to a single 2-minute execution.
 - Secured deployment using TLS encryption and cryptographic integrity verification.
 
+🔗 **Repository Link:** 
+https://github.com/rohitkvanjre/SmartSoftwareDeployer.git
 ---
 
 ## 📚 Publications & Technical Writing
