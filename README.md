@@ -19,7 +19,7 @@ I'm a Computer Science Engineering student with a strong foundation in full-stac
 - 🎓 B.E. in Computer Science & Engineering, Sri Sairam College of Engineering (2023 – 2026)
 - 💡 Focus areas: Android Development, AI/ML Applications, System Design
 - 🌱 Currently deepening skills in DSA, Backend Development, and Full-Stack Engineering
-- 🤝 Open to internships, entry-level roles, and collaborative projects
+- 🤝 Building projects that solve real problems. Open to internships, full-time roles, freelance work, and collaborations.
 
 ---
 
