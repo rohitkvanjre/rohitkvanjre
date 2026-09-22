@@ -99,7 +99,7 @@ An interactive dashboard prototype visualizing marketing campaign performance me
 - Designed with a focus on clarity, usability, and KPI tracking
 - Demonstrated UI/UX design and product-thinking skills alongside data visualization concepts
 
-🔗 **Live Design:** [View on Figma](https://www.figma.com/make/bOO7fWbgt3TokqIrVPejaU/Lead-Management-System-CRM)
+🔗 **Live Design:** [View on Figma](https://shadow-copper-54715608.figma.site)
 
 ---
 
