@@ -87,6 +87,7 @@ An Android app that shortens the gap between an urgent blood request and a match
 - Kept donors' contact details hidden by default, revealing them only once a request is explicitly accepted, to balance urgency with privacy
 - Backed the build with formal SRS documentation, DFDs, and use-case models so the system design could scale beyond the MVP
 
+🔗 **Repository:** [github.com/rohitkvanjre/Rakta-Seva Connect](https://github.com/rohitkvanjre/Rakta_Seva_Connect.git)
 ---
 
 ### 🔹 Marketing Campaign Dashboard Prototype (Figma)
